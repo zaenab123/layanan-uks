@@ -199,13 +199,26 @@ elif menu == "Riwayat Kunjungan UKS":
         selected = st.selectbox(
             "Pilih Tanggal Kunjungan",
             df_riwayat_user.index,
-            format_func=lambda x: df_riwayat_user.loc[x, "tanggal"]
-
+            format_func=lambda x: f"{df_riwayat_user.loc[x, 'tanggal']} - {df_riwayat_user.loc[x, 'nama_siswa']}"
         )
 
         row = df_riwayat_user.loc[selected]
         for col in df_riwayat_user.columns:
             st.write(f"**{col.capitalize()}** : {row[col]}")
+
+        # =====================
+        # HAPUS DATA (ADMIN ONLY)
+        # =====================
+        if st.session_state.role == "admin":
+            st.markdown("---")
+            st.warning("⚠️ Aksi ini tidak bisa dibatalkan")
+
+            if st.button("🗑️ Hapus Data Kunjungan"):
+                df_riwayat.drop(index=selected, inplace=True)
+                df_riwayat.to_csv(RIWAYAT_FILE, index=False)
+
+                st.success("Data berhasil dihapus")
+                st.rerun()
 
 # =====================
 # STATUS TERAKHIR
