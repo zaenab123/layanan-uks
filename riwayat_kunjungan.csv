@@ -1,0 +1,22 @@
+tanggal,nama_siswa,keluhan,tindakan,obat,status,catatan
+2025-01-03,Andi Pratama,Pusing setelah olahraga,Istirahat dan cek tekanan darah,Paracetamol,Dipulangkan,Kondisi membaik
+2025-01-04,Siti Aisyah,Nyeri perut,Kompres hangat dan observasi,Antasida,Dirawat,Masih dipantau
+2025-01-05,Budi Santoso,Luka lecet di kaki,Membersihkan luka dan perban,Povidone Iodine,Dipulangkan,Tidak ada pendarahan lanjut
+2025-01-06,Rina Oktaviani,Demam dan sakit tenggorokan,Cek suhu dan istirahat,Paracetamol,Dirujuk,Suhu 38.6°C
+2025-01-07,Dimas Saputra,Batuk dan pilek,Observasi di UKS,Obat batuk sirup,Dirawat,Disarankan istirahat
+2025-01-08,Nabila Putri,Sakit kepala ringan,Istirahat dan minum air putih,-,Dipulangkan,Diduga kurang minum
+2025-01-09,Rizky Maulana,Mual saat pelajaran,Istirahat dan observasi,Minyak angin,Dipulangkan,Tidak muntah
+2025-01-10,Aulia Rahman,Tergores benda tajam,Membersihkan luka,Povidone Iodine,Dipulangkan,Luka kecil
+2025-01-11,Putri Amelia,Pusing dan lemas,Cek tekanan darah,Vitamin B kompleks,Dirawat,Tekanan darah rendah
+2025-01-12,Fajar Nugroho,Nyeri otot setelah olahraga,Kompres hangat,Balsem otot,Dipulangkan,Disarankan peregangan
+2025-01-13,Intan Permata,Sakit perut saat haid,Istirahat di UKS,Paracetamol,Dirawat,Keluhan berkurang
+2025-01-14,Yoga Pratama,Batuk ringan,Observasi singkat,Obat batuk sirup,Dipulangkan,Tidak ada demam
+2025-01-15,Zahra Khadijah,Demam tinggi,Cek suhu tubuh,Paracetamol,Dirujuk,Disarankan ke puskesmas
+2025-01-16,Ilham Fauzi,Pusing setelah tidak sarapan,Istirahat dan makan ringan,-,Dipulangkan,Kondisi stabil
+2025-01-17,Maya Lestari,Luka jatuh ringan,Membersihkan luka dan perban,Povidone Iodine,Dipulangkan,Diminta kontrol jika nyeri
+2025-01-18,Salsabila,Sakit kepala setelah belajar lama,Istirahat dan observasi,Paracetamol,Dipulangkan,Diduga kelelahan
+2025-01-22,Salsabila,Nyeri perut ringan,Kompres hangat,Antasida,Dipulangkan,Tidak ada muntah
+2025-01-28,Salsabila,Pusing saat upacara,Cek tekanan darah dan istirahat,-,Dipulangkan,Tekanan darah normal
+2025-02-03,Salsabila,Batuk kering,Observasi singkat,Obat batuk sirup,Dipulangkan,Tanpa demam
+2025-02-10,Salsabila,Lemas karena terlambat makan,Istirahat dan makan ringan,-,Dipulangkan,Kondisi membaik
+2025-12-30,Salsabila,Sakit hati,Disemangatin,Kasih sayang,Dirujuk,"Semangat yaa, cinta gak selamanya indah :)"
